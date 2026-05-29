@@ -1,0 +1,15 @@
+kabupaten,jumlah_titik,elevasi_mean,elevasi_min,elevasi_max,elevasi_std,tutupan_dominan,kode_tutupan_dominan
+Mesuji,9,5.8,4,11,2.8,Permanent Wetlands,11
+Tulang Bawang,498,12.5,1,48,9.7,Cropland/Natural Vegetation Mosaic,14
+Lampung Timur,535,21.4,0,74,10.2,Cropland/Natural Vegetation Mosaic,14
+Lampung Tengah,527,32.2,5,88,13.9,Cropland/Natural Vegetation Mosaic,14
+Tulang Bawang Barat,287,32.3,6,72,14.2,Cropland/Natural Vegetation Mosaic,14
+Metro,312,47.6,21,201,18.3,Cropland/Natural Vegetation Mosaic,14
+Lampung Selatan,379,54.9,2,924,77.4,Cropland/Natural Vegetation Mosaic,14
+Lampung Utara,486,82.4,18,282,44.7,Woody Savannas,8
+Pesawaran,95,91.0,50,325,39.7,Cropland/Natural Vegetation Mosaic,14
+Pringsewu,358,209.8,0,1452,189.1,Woody Savannas,8
+Bandar Lampung,154,217.8,5,1333,210.7,Woody Savannas,8
+Tanggamus,680,460.5,0,1682,353.4,Woody Savannas,8
+Pesisir Barat,133,563.6,0,1442,364.8,Evergreen Broadleaf Forest,2
+Lampung Barat,452,633.0,0,1765,382.1,Woody Savannas,8
